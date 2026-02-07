@@ -1,5 +1,5 @@
 Jarvis AI - Desktop Assistant
-<img width="766" height="665" alt="image" src="https://github.com/user-attachments/assets/d36a0b36-76bc-4745-96cb-268cbae738be" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d36a0b36-76bc-4745-96cb-268cbae738be" />
 
 A Python-based intelligent personal assistant that transforms your desktop into a voice-controlled command center, inspired by Tony Stark's iconic AI companion.
 
